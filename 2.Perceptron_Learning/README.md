@@ -13,7 +13,7 @@
 3. Kiểm tra xem có bao nhiêu điểm bị misclassifed. Nếu không còn điểm nào, dừng thuật toán. Nếu còn, quay lại bước 2
 ### Kết quả thực hiện được với giải thuật PLA
 <p align="center">
-  <img src="pla_vi.gif" />
+  <img src="pla_vis.gif" />
 </p>
 
 ### Ứng dụng
